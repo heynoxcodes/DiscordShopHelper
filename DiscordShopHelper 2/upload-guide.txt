@@ -1,0 +1,40 @@
+MANUAL UPLOAD GUIDE - Discord Shop Bot
+
+Since git is locked, here's how to get your code to GitHub:
+
+METHOD 1: Download Individual Files
+1. In Replit, click each file in the file list (left side)
+2. Copy the contents of each file
+3. In GitHub, create new files with the same names and paste content
+
+IMPORTANT FILES TO UPLOAD:
+- main.py
+- run.py
+- pyproject.toml
+- railway.json
+- Procfile  
+- README.md
+- DEPLOYMENT_GUIDE.md
+- .gitignore
+- bot/config.py
+- bot/database/manager.py
+- bot/database/models.py
+- bot/commands/shop.py
+- bot/commands/admin.py
+- bot/commands/orders.py
+- bot/payments/paypal.py
+- bot/payments/crypto.py
+- bot/payments/cashapp.py
+- bot/utils/embeds.py
+- bot/utils/logger.py
+- bot/utils/permissions.py
+
+METHOD 2: Try the Three Dots Menu
+1. Look for three dots (...) in the top right of Replit
+2. Look for "Download" or "Export" option
+
+METHOD 3: File Menu
+1. Look for "File" menu at the top
+2. Look for "Download" or "Export project"
+
+Once files are on GitHub, go to railway.app to deploy!

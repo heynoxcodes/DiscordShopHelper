@@ -1,0 +1,13 @@
+[project]
+name = "discord-shop-bot"
+version = "1.0.0"
+description = "Discord bot for selling digital products"
+dependencies = [
+    "discord.py>=2.5.2",
+    "aiohttp>=3.12.14",
+    "aiosqlite>=0.21.0"
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"

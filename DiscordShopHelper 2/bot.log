@@ -1,0 +1,97 @@
+2025-07-22 15:20:21,583 - shop_bot - ERROR - DISCORD_TOKEN environment variable not found!
+2025-07-22 15:20:45,863 - shop_bot - ERROR - DISCORD_TOKEN environment variable not found!
+2025-07-22 15:23:05,251 - shop_bot - INFO - Created/verified table: products
+2025-07-22 15:23:05,274 - shop_bot - INFO - Created/verified table: orders
+2025-07-22 15:23:05,291 - shop_bot - INFO - Created/verified table: payments
+2025-07-22 15:23:05,308 - shop_bot - INFO - Created/verified table: inventory_logs
+2025-07-22 15:23:05,326 - shop_bot - INFO - Created/verified table: user_profiles
+2025-07-22 15:23:05,343 - shop_bot - INFO - Created/verified table: support_tickets
+2025-07-22 15:23:05,365 - shop_bot - INFO - Created/verified table: settings
+2025-07-22 15:23:05,491 - shop_bot - INFO - Database initialized successfully
+2025-07-22 15:23:05,555 - shop_bot - INFO - Created/verified table: products
+2025-07-22 15:23:05,557 - shop_bot - INFO - Created/verified table: orders
+2025-07-22 15:23:05,558 - shop_bot - INFO - Created/verified table: payments
+2025-07-22 15:23:05,559 - shop_bot - INFO - Created/verified table: inventory_logs
+2025-07-22 15:23:05,560 - shop_bot - INFO - Created/verified table: user_profiles
+2025-07-22 15:23:05,560 - shop_bot - INFO - Created/verified table: support_tickets
+2025-07-22 15:23:05,560 - shop_bot - INFO - Created/verified table: settings
+2025-07-22 15:23:05,562 - shop_bot - INFO - Database initialized successfully
+2025-07-22 15:23:05,926 - shop_bot - INFO - Synced 9 command(s)
+2025-07-22 15:23:06,156 - shop_bot - ERROR - Bot crashed: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-22 15:24:00,709 - shop_bot - INFO - Created/verified table: products
+2025-07-22 15:24:00,710 - shop_bot - INFO - Created/verified table: orders
+2025-07-22 15:24:00,713 - shop_bot - INFO - Created/verified table: payments
+2025-07-22 15:24:00,713 - shop_bot - INFO - Created/verified table: inventory_logs
+2025-07-22 15:24:00,715 - shop_bot - INFO - Created/verified table: user_profiles
+2025-07-22 15:24:00,716 - shop_bot - INFO - Created/verified table: support_tickets
+2025-07-22 15:24:00,716 - shop_bot - INFO - Created/verified table: settings
+2025-07-22 15:24:00,717 - shop_bot - INFO - Database initialized successfully
+2025-07-22 15:24:05,883 - shop_bot - INFO - Synced 9 command(s)
+2025-07-22 15:24:07,771 - shop_bot - ERROR - Bot crashed: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-22 15:24:22,877 - shop_bot - INFO - Created/verified table: products
+2025-07-22 15:24:22,877 - shop_bot - INFO - Created/verified table: orders
+2025-07-22 15:24:22,878 - shop_bot - INFO - Created/verified table: payments
+2025-07-22 15:24:22,879 - shop_bot - INFO - Created/verified table: inventory_logs
+2025-07-22 15:24:22,883 - shop_bot - INFO - Created/verified table: user_profiles
+2025-07-22 15:24:22,884 - shop_bot - INFO - Created/verified table: support_tickets
+2025-07-22 15:24:22,884 - shop_bot - INFO - Created/verified table: settings
+2025-07-22 15:24:22,886 - shop_bot - INFO - Database initialized successfully
+2025-07-22 15:24:59,495 - shop_bot - INFO - Created/verified table: products
+2025-07-22 15:24:59,498 - shop_bot - INFO - Created/verified table: orders
+2025-07-22 15:24:59,501 - shop_bot - INFO - Created/verified table: payments
+2025-07-22 15:24:59,503 - shop_bot - INFO - Created/verified table: inventory_logs
+2025-07-22 15:24:59,505 - shop_bot - INFO - Created/verified table: user_profiles
+2025-07-22 15:24:59,507 - shop_bot - INFO - Created/verified table: support_tickets
+2025-07-22 15:24:59,511 - shop_bot - INFO - Created/verified table: settings
+2025-07-22 15:24:59,533 - shop_bot - INFO - Database initialized successfully
+2025-07-22 15:25:05,810 - shop_bot - INFO - Synced 9 command(s)
+2025-07-22 15:25:08,151 - shop_bot - INFO - Shop bot (test version)#7509 has connected to Discord!
+2025-07-22 15:25:08,151 - shop_bot - INFO - Bot is in 0 guilds
+2025-07-22 15:35:46,211 - shop_bot - INFO - Created/verified table: products
+2025-07-22 15:35:46,214 - shop_bot - INFO - Created/verified table: orders
+2025-07-22 15:35:46,215 - shop_bot - INFO - Created/verified table: payments
+2025-07-22 15:35:46,217 - shop_bot - INFO - Created/verified table: inventory_logs
+2025-07-22 15:35:46,217 - shop_bot - INFO - Created/verified table: user_profiles
+2025-07-22 15:35:46,218 - shop_bot - INFO - Created/verified table: support_tickets
+2025-07-22 15:35:46,218 - shop_bot - INFO - Created/verified table: settings
+2025-07-22 15:35:46,219 - shop_bot - INFO - Database initialized successfully
+2025-07-22 15:35:46,465 - shop_bot - INFO - Created/verified table: products
+2025-07-22 15:35:46,467 - shop_bot - INFO - Created/verified table: orders
+2025-07-22 15:35:46,468 - shop_bot - INFO - Created/verified table: payments
+2025-07-22 15:35:46,468 - shop_bot - INFO - Created/verified table: inventory_logs
+2025-07-22 15:35:46,468 - shop_bot - INFO - Created/verified table: user_profiles
+2025-07-22 15:35:46,468 - shop_bot - INFO - Created/verified table: support_tickets
+2025-07-22 15:35:46,469 - shop_bot - INFO - Created/verified table: settings
+2025-07-22 15:35:46,468 - shop_bot - INFO - Synced 9 command(s)
+2025-07-22 15:35:46,469 - shop_bot - INFO - Database initialized successfully
+2025-07-22 15:35:48,787 - shop_bot - INFO - Shop bot (test version)#7509 has connected to Discord!
+2025-07-22 15:35:48,787 - shop_bot - INFO - Bot is in 0 guilds
+2025-07-22 15:36:46,545 - shop_bot - INFO - Synced 9 command(s)
+2025-07-22 15:36:48,770 - shop_bot - INFO - Shop bot (test version)#7509 has connected to Discord!
+2025-07-22 15:36:48,771 - shop_bot - INFO - Bot is in 0 guilds
+2025-07-22 16:17:43,886 - shop_bot - ERROR - Error in shop command: threads can only be started once
+2025-07-22 16:17:52,850 - shop_bot - ERROR - Error in shop command: threads can only be started once
+2025-07-22 16:18:56,143 - shop_bot - INFO - Created/verified table: products
+2025-07-22 16:18:56,144 - shop_bot - INFO - Created/verified table: orders
+2025-07-22 16:18:56,145 - shop_bot - INFO - Created/verified table: payments
+2025-07-22 16:18:56,145 - shop_bot - INFO - Created/verified table: inventory_logs
+2025-07-22 16:18:56,146 - shop_bot - INFO - Created/verified table: user_profiles
+2025-07-22 16:18:56,146 - shop_bot - INFO - Created/verified table: support_tickets
+2025-07-22 16:18:56,146 - shop_bot - INFO - Created/verified table: settings
+2025-07-22 16:18:56,148 - shop_bot - INFO - Database initialized successfully
+2025-07-22 16:18:56,149 - shop_bot - ERROR - Error adding sample products: threads can only be started once
+2025-07-22 16:18:56,369 - shop_bot - INFO - Synced 9 command(s)
+2025-07-22 16:18:58,626 - shop_bot - INFO - Shop bot (test version)#7509 has connected to Discord!
+2025-07-22 16:18:58,626 - shop_bot - INFO - Bot is in 1 guilds
+2025-07-22 16:20:37,538 - shop_bot - ERROR - Error in shop command: threads can only be started once
+2025-07-22 16:21:14,889 - shop_bot - INFO - Created/verified table: products
+2025-07-22 16:21:14,890 - shop_bot - INFO - Created/verified table: orders
+2025-07-22 16:21:14,890 - shop_bot - INFO - Created/verified table: payments
+2025-07-22 16:21:14,890 - shop_bot - INFO - Created/verified table: inventory_logs
+2025-07-22 16:21:14,890 - shop_bot - INFO - Created/verified table: user_profiles
+2025-07-22 16:21:14,890 - shop_bot - INFO - Created/verified table: support_tickets
+2025-07-22 16:21:14,891 - shop_bot - INFO - Created/verified table: settings
+2025-07-22 16:21:14,892 - shop_bot - INFO - Database initialized successfully
+2025-07-22 16:21:15,180 - shop_bot - INFO - Synced 9 command(s)
+2025-07-22 16:21:17,469 - shop_bot - INFO - Shop bot (test version)#7509 has connected to Discord!
+2025-07-22 16:21:17,470 - shop_bot - INFO - Bot is in 1 guilds
